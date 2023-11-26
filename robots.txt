@@ -1,0 +1,1 @@
+Sitemap: https://footrest.netlify.app/index.html/sitemap.xml
